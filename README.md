@@ -2,7 +2,7 @@
 
 A structured repository documenting my journey of learning **Java** through the Telusko Java course.
 
-This repository contains my notes, practice programs, experiments, and projects as I build a strong foundation in Java.
+This repository contains practice programs, experiments, and projects as I build a strong foundation in Java.
 
 ## 🎯 Learning Goals
 
@@ -39,7 +39,11 @@ This repository contains my notes, practice programs, experiments, and projects 
 ## 📂 Repository Structure
 
 ```text
-01-demo-/
+│
+├──Course-Learning 
+├─────_01_Hello.java
+├──.gitignore
+└──README.md
 ```
 
 Each section is organized by concept so that the repository can also be used as a reference later.
