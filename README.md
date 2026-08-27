@@ -19,7 +19,7 @@ This repository contains my notes, practice programs, experiments, and projects 
 
 ### 🎓 Primary Course
 
-[Telusko — Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5)
+*[Telusko — Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5)
 
 ### 📖 References
 
