@@ -42,6 +42,7 @@ This repository contains practice programs, experiments, and projects as I build
 │
 ├──Course-Learning 
 ├─────_01_Hello.java
+├─────_02_Variable.java
 ├──.gitignore
 └──README.md
 ```
