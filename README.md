@@ -44,6 +44,7 @@ This repository contains practice programs, experiments, and projects as I build
 ├─────_01_Hello.java
 ├─────_02_Variable.java
 ├─────_03_Type_Conversion_and_casting.java
+├─────_04_Operator.java
 ├──.gitignore
 └──README.md
 ```
