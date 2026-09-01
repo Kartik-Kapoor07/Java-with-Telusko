@@ -46,6 +46,7 @@ This repository contains practice programs, experiments, and projects as I build
 ├─────_03_Type_Conversion_and_casting.java
 ├─────_04_Operator.java
 ├─────_05_Conditional_Statement.java
+├─────_06_Ternary_Operator.java
 ├──.gitignore
 └──README.md
 ```
