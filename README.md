@@ -47,6 +47,7 @@ This repository contains practice programs, experiments, and projects as I build
 ├─────_04_Operator.java
 ├─────_05_Conditional_Statement.java
 ├─────_06_Ternary_Operator.java
+├─────_07_Switch_Statement.java
 ├──.gitignore
 └──README.md
 ```
